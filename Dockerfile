@@ -1,4 +1,4 @@
-# Using official python runtime base image
+# Using official python runtime base image for push trigger
 FROM image-registry.openshift-image-registry.svc:5000/openshift/python:latest
 
 # Install our requirements.txt
